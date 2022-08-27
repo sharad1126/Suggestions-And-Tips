@@ -3,12 +3,8 @@ Commonly asked questions about MSc infosec @UCL, CERN applications, and more
 
 ***Disclaimer: These are purely my suggestions based on my experiences. They are not approved or suggested by UCL, CERN or anyone at those organizations.*** 
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sharad1126)
+If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sharad1126)
 <a href="https://www.buymeacoffee.com/sharad1126" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="93"></a>
-
-
-<!--START_SECTION:buy-me-a-coffee-->
-<!--END_SECTION:buy-me-a-coffe-->
 
 # Contents
 
@@ -44,3 +40,6 @@ Side note: CERN receives a few thousand applications for a very small number of 
 Lastly I just want to say - 'Good luck with your application! This will be the best summer of your life!' If you do end up as an intern at CERN, do ping me on socials and let me know how was your summer!
 
 If you have any questions after reading this, feel free to create an [issue on this repo](https://github.com/sharad1126/Suggestions-And-Tips/issues) so I can answer it here for everyone to look at those questions and maybe even add it to this readme. If there's something else you'd like to ask, [get in touch with me](https://sharad1126.github.io/).
+
+<!--START_SECTION:buy-me-a-coffee-->
+<!--END_SECTION:buy-me-a-coffe-->
