@@ -5,6 +5,9 @@ Commonly asked questions about MSc infosec @UCL, CERN applications, and more
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sharad1126)
 
+<!--START_SECTION:buy-me-a-coffee-->
+<!--END_SECTION:buy-me-a-coffe-->
+
 # Contents
 
 - [MSc Information Security @UCL pre-requisites](#msc-information-security-ucl-pre-requisites)
