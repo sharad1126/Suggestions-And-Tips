@@ -5,12 +5,10 @@ Disclaimer: These are purely my suggestions based on my experiences. They are no
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sharad1126)
 
-## Contents
+# Contents
 
 - [MSc Information Security @UCL pre-requisites](#msc-information-security-ucl-pre-requisites)
 - [CERN Openlab Summer Student Experience](#cern-openlab-summer-student-experience-2017)
-
-## Check redirection of various shortened URLs without clicking on the URL (credits: [aware-online](https://www.aware-online.com/en/investigate-shortened-urls/))
 
 ## MSc Information Security @UCL pre-requisites
 
