@@ -14,7 +14,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 
 ## MSc Information Security @UCL pre-requisites
 
-I have a complete [thread on Twitter](https://twitter.com/shad1126/status/1415315055927771146?s=20&t=HNMo7ovWOazUydnLiBpJpw) which I wrote after I finished my MSc in 2021 where I have listed suggestions about some pre-requisites for the new cohorts. 
+Congrats on receiving an offer and Welcome to UCL! I have a complete [thread on Twitter](https://twitter.com/shad1126/status/1415315055927771146?s=20&t=HNMo7ovWOazUydnLiBpJpw) which I wrote after I finished my MSc in 2021 where I have listed suggestions about some pre-requisites for the new cohorts. Hopefully this should help you prepare and be ready to grind during the Master's.
 
 <a href="https://twitter.com/shad1126/status/1415315055927771146?s=20&t=HNMo7ovWOazUydnLiBpJpw"><img src="https://github.com/sharad1126/Suggestions-And-Tips/blob/main/images/twitter.png" width="400"/></a>
 
