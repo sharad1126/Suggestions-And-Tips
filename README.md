@@ -8,9 +8,17 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 
 # Contents
 
+- [Consent in Research](#consent-in-collaborative-research-especially-for-phd-students)
 - [MSc Information Security @UCL pre-requisites](#msc-information-security-ucl-pre-requisites)
 - [CERN Openlab Summer Student Experience](#cern-openlab-summer-student-experience-2017)
 - [CERN Internship Application Tips](#cern-internship-application-tips)
+
+## Consent in Collaborative Research (Especially for PhD students)
+
+Six months into my Ph.D. journey and I have already made mistakes. Consent in collaborative research is something nobody teaches you but probably is something that everyone needs to know. Here are a few points I have learnt till now:
+
+* If you are not the lead of the project, inform others before taking **any** step, including sending Freedom of Information (FoI) requests or the smallest step possible.
+* Before starting a draft submission to a conference/journal, ask for permission from **all co-authors** (even if you are the first author).
 
 ## MSc Information Security @UCL pre-requisites
 
