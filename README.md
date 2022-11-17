@@ -1,5 +1,5 @@
 # Suggestions And Tips
-Commonly asked questions about MSc infosec @UCL, CERN applications, and more
+Lessons I have learned in my journey, Commonly asked questions about MSc infosec @UCL, CERN applications, and more
 
 ***Disclaimer: These are purely my suggestions based on my experiences. They are not approved or suggested by UCL, CERN or anyone at those organizations.*** 
 
