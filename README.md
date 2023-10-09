@@ -19,22 +19,22 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 There are a lot of things I’ve got to know during the last 6 months since I started my Ph.D. that I should have been prepared for: 
 
 * Have a better understanding of the literature in the area and keep on updating it. It's difficult to find literature similar to your research because academics use different keywords and write the same things differently. The [arXiv](https://arxiv.org/) papers aren’t indexed well because of citations, but they are all preprints waiting to be accepted at conferences. 
-* Think in more scientific way then just technically writing code to solve a problem. Coming from a more technical background, it took me time to understand this.
-* Think through the research questions on a broader level instead of a direct question. Eg. I have a simple question that I want to answer what is the distribution of x and y in SMS frauds and is not answered in literature but is not very scientific. So it would help if you polish and re-rewrite things to improve them.
-* It will involve a lot of reading and writing. Technical stuff would be very less as one thinks. 
-* Patience is going to be a critical factor in this journey. We think we know what we want to do and can get started and get done. However, other stakeholders/collaborators would have other priorities, so everything will take time. 
+* Think more scientifically than just technically writing code to solve a problem. Coming from a more technical background, it took me time to understand this.
+* Think through the research questions on a broader level instead of a direct question. Eg. I have a simple question that I want to answer: what is the distribution of x and y in SMS frauds and is not answered in literature but is not very scientific. So it would help if you polish and re-rewrite things to improve them.
+* It will involve a lot of reading and writing. Technical stuff would be much less than one thinks. 
+* Patience is going to be a critical factor in this journey. We think we know what we want to do and can get started and get done. However, other stakeholders/collaborators would have other priorities so everything will take time. 
 * Don’t talk much about your research with everyone outside your lab. Keep it broad and vague unless you have a publication because the world is not good. 
 * A good Supervisor can make your life easier. I’m glad to have a good supervisor who helps me with everything.
-* Your timeline for things changes compared to what you thought before starting the Ph.D.
-* Thankfully I have a diary in which I take notes for every meeting I have with my supervisor (something I learned from someone's tweets before starting my research). Else one forgets things so fast because you are occupied with multiple things that you are doing. I have a different diary where I write meeting notes for the ones I have with collaborators/industry ones.
+* Your timeline changes compared to your proposed one before starting the Ph.D., and you should be okay with that.
+* Thankfully, I have a diary where I take notes for every meeting with my supervisor (something I learned from someone's tweets before starting my research). Otherwise, one forgets things so fast because you are occupied with multiple things that you are doing. I have a different diary where I write meeting notes for the ones I have with collaborators/industry ones.
 * Keep the expectations from your supervisor clear. It’s better for the long run. 
-* Burnouts are a thing, so taking breaks and weekends for yourself will make you more productive (sometimes working over the weekend is ok because of deadlines).
+* Burnouts are a thing, so taking breaks and weekends for yourself will make you more productive (sometimes working over the weekend is okay because of deadlines).
 
 ## Consent in Collaborative Research (Especially for PhD students)
 
-Six months into my Ph.D. journey and I have already made mistakes. Consent in collaborative research is something nobody teaches you but probably is something that everyone needs to know. Here are a few points I have learnt till now:
+Six months into my Ph.D. journey, I have already made mistakes. Consent in collaborative research is something nobody teaches you, but everyone needs to know. Here are a few points I have learned till now:
 
-* If you are not the lead of the project, inform others before taking **any** step, including sending Freedom of Information (FoI) requests or the smallest step possible.
+* If you are not the lead of the project, inform others before taking **any** step, including sending Freedom of Information (FOI) requests or the smallest step possible.
 * Before starting a draft submission to a conference/journal, ask for permission from **all co-authors** (even if you are the first author).
 
 ## MSc Information Security @UCL pre-requisites
