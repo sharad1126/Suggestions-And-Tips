@@ -11,6 +11,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 - [Things I wish I knew before starting a Ph.D.](#things-i-wish-i-knew-before-starting-a-phd)
 - [Consent in Research](#consent-in-collaborative-research-especially-for-phd-students)
 - [MSc Information Security @UCL pre-requisites](#msc-information-security-ucl-pre-requisites)
+- [MSc Computer Science @UCL](#msc-computer-science-ucl)
 - [CERN Openlab Summer Student Experience](#cern-openlab-summer-student-experience-2017)
 - [CERN Internship Application Tips](#cern-internship-application-tips)
 
@@ -42,6 +43,10 @@ Six months into my Ph.D. journey, I have already made mistakes. Consent in colla
 Congrats on receiving an offer and Welcome to UCL! I have a complete [thread on Twitter](https://twitter.com/shad1126/status/1415315055927771146?s=20&t=HNMo7ovWOazUydnLiBpJpw) which I wrote after I finished my MSc in 2021 where I have listed suggestions about some pre-requisites for the new cohorts. Hopefully this should help you prepare and be ready to grind during the Master's.
 
 <a href="https://twitter.com/shad1126/status/1415315055927771146?s=20&t=HNMo7ovWOazUydnLiBpJpw"><img src="https://github.com/sharad1126/Suggestions-And-Tips/blob/main/images/twitter.png" width="400"/></a>
+
+## MSc Computer Science @UCL
+
+<a href="https://github.com/anchit-chandran/how-to-compsci-msc">Guide for students joining UCL MSc Computer Science</a> by Anchit, Hugo and Devan.
 
 ## CERN Openlab Summer Student Experience 2017
 
