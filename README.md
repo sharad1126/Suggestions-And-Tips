@@ -9,7 +9,6 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 # Contents
 
 - [Things I wish I knew before starting a Ph.D.](#things-i-wish-i-knew-before-starting-a-phd)
-- [Consent in Research](#consent-in-collaborative-research-especially-for-phd-students)
 - [MSc Information Security @UCL pre-requisites](#msc-information-security-ucl-pre-requisites)
 - [MSc Computer Science @UCL](#msc-computer-science-ucl)
 - [CERN Openlab Summer Student Experience](#cern-openlab-summer-student-experience-2017)
@@ -17,26 +16,47 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 
 ## Things I wish I knew before starting a Ph.D.
 
-There are a lot of things I’ve got to know during the last 6 months since I started my Ph.D. that I should have been prepared for: 
+The tips below reflect what I know now, not just what I worried about in month six. Some of the earlier anxieties turned out to be temporary; some lessons became clearer only at the end.
 
-* Have a better understanding of the literature in the area and keep on updating it. It's difficult to find literature similar to your research because academics use different keywords and write the same things differently. The [arXiv](https://arxiv.org/) papers aren’t indexed well because of citations, but they are all preprints waiting to be accepted at conferences. 
-* Think more scientifically than just technically writing code to solve a problem. Coming from a more technical background, it took me time to understand this.
-* Think through the research questions on a broader level instead of a direct question. Eg. I have a simple question that I want to answer: what is the distribution of x and y in SMS frauds and is not answered in literature but is not very scientific. So it would help if you polish and re-rewrite things to improve them.
-* It will involve a lot of reading and writing. Technical stuff would be much less than one thinks. 
-* Patience is going to be a critical factor in this journey. We think we know what we want to do and can get started and get done. However, other stakeholders/collaborators would have other priorities so everything will take time. 
-* Don’t talk much about your research with everyone outside your lab. Keep it broad and vague unless you have a publication because the world is not good. 
-* A good Supervisor can make your life easier. I’m glad to have a good supervisor who helps me with everything.
-* Your timeline changes compared to your proposed one before starting the Ph.D., and you should be okay with that.
-* Thankfully, I have a diary where I take notes for every meeting with my supervisor (something I learned from someone's tweets before starting my research). Otherwise, one forgets things so fast because you are occupied with multiple things that you are doing. I have a different diary where I write meeting notes for the ones I have with collaborators/industry ones.
-* Keep the expectations from your supervisor clear. It’s better for the long run. 
-* Burnouts are a thing, so taking breaks and weekends for yourself will make you more productive (sometimes working over the weekend is okay because of deadlines).
+### On mindset and motivation:
 
-## Consent in Collaborative Research (Especially for PhD students)
+* It's a marathon, not a sprint. The people who finish well aren't the ones who burned the hardest at the start —- they're the ones who kept going consistently.
+* Be honest with yourself about why you're doing it. If it's for the title or the letters after your name, that motivation won't survive year two. Do it because you genuinely want to find something out that the world doesn't know yet.
+* The freedom to pursue a research question deeply, on your own terms, with no one telling you what to ship; that's rare. Most careers don't offer it. Appreciate it, even on the hard days.
+* Don't measure your progress against your cohort. Someone publishing in month 8 and someone publishing in month 30 can produce equally important work. The timeline is not the measure.
+* The degree is just the receipt. The thinking, the rigour, and the habits you build along the way are the actual output.
 
-Six months into my Ph.D. journey, I have already made mistakes. Consent in collaborative research is something nobody teaches you, but everyone needs to know. Here are a few points I have learned till now:
+### On research and thinking:
 
-* If you are not the lead of the project, inform others before taking **any** step, including sending Freedom of Information (FOI) requests or the smallest step possible.
-* Before starting a draft submission to a conference/journal, ask for permission from **all co-authors** (even if you are the first author).
+* Learn to think like a scientist, not just an engineer. If you come from a technical background, the shift from "build something" to "ask the right question" is harder than it sounds and more important.
+* Broad research questions are your friends early on; narrow ones trap you.
+* The literature is messier than you expect. Academics use wildly different keywords for the same ideas. Build your own keyword map early and keep updating it.
+* Keep a running "related work" doc from day one. Rebuilding it before submission is painful.
+
+### On productivity and pace:
+
+* Speed comes from focus, not hours. Know what your thesis is not about and say no to everything outside it.
+* Write early. Waiting until you have enough results is a trap; writing is how you actually figure out what you think.
+* Keep a diary of every meeting, every decision, and why you made it. You will forget things faster than you think.
+* Submit to conferences early. Even rejections give you useful feedback that improves the next submission.
+
+### On supervision and collaboration:
+
+* Set clear expectations with your supervisor from the start including meeting cadence, feedback timelines, authorship norms. A good supervisor makes a huge difference; I was lucky to have one.
+* In collaborative research, never take any step including draft submissions, FoI requests, or even exploratory emails, without informing all stakeholders first. Nobody teaches you this. Everyone learns it the hard way.
+* Always get explicit consent from all co-authors before submitting anything, even a workshop paper. Even if you're first author.
+
+### On time and wellbeing:
+
+* Your timeline will shift from what you proposed before starting. That's completely normal — don't tie your self-worth to the original plan.
+* Burnout is real and sneaky. Protect your weekends when you can. A rested brain does better work.
+* Don't overshare your research with people outside your lab until you have a publication or a clear plan.
+
+### On the finish line:
+
+* It feels endless from the inside, but it does end — and it ends faster if you treat it like a project with a deliverable rather than a journey with no destination.
+* Start thinking about your thesis structure at least 12 months before you plan to submit. Writing always takes longer than you think.
+* Get a solid paper out early. It's the clearest signal to yourself and to everyone else that you can do independent research. Publications compound.
 
 ## MSc Information Security @UCL pre-requisites
 
